@@ -87,3 +87,7 @@
 ### Code Editor
 
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual%20studio%20code" /></a>
+
+### MacOS Spotlight Search `for Windows`
+
+<a href="https://www.flowlauncher.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Flow%20Launcher-000?style=for-the-badge&logo=flow%20launcher" /></a>
