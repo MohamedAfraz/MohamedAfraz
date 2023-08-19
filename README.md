@@ -79,9 +79,10 @@
 
 <br>
 
-## Softwares and Apps *used by me*
+## Softwares and Apps *used by me* (click on it to install)
 ### Web Browser
-![Brave](https://img.shields.io/badge/-Brave-000?style=for-the-badge&logo=brave)
+
+<a href="https://brave.com/download/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Brave-000?style=for-the-badge&logo=brave" /></a>
 
 ### Code Editor
 
