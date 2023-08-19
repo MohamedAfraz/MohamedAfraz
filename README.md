@@ -22,6 +22,7 @@
 `C++`
 `C#`
 `Go`
+`Markdown`
 
 ### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -32,23 +33,9 @@
 `Tailwind CSS`
 `Bootstrap`
 
-### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
-![Aseprite](https://img.shields.io/badge/-Aseprite-000?style=for-the-badge&logo=aseprite)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
 ### Backend
-`Node JS`
-`API`
-
-### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Node JS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=api)
 
 ### Platforms
 `Android`
@@ -58,17 +45,35 @@
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
-![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react%20native)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
+
+### Game Development
+`Unity`
+`Unreal Engine`
+
+### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+
+### Database/State
+`Firebase`
+`MongoDB`
+
+### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
+![Aseprite](https://img.shields.io/badge/-Aseprite-000?style=for-the-badge&logo=aseprite)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
-### Database/State
-`Firebase`
-`MongoDB`
 
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
