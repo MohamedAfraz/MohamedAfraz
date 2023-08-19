@@ -80,3 +80,9 @@
 <br>
 
 ## Softwares and Apps *used by me*
+### Web Browser
+![Brave](https://img.shields.io/badge/-Brave-000?style=for-the-badge&logo=brave)
+
+### Code Editor
+
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual%20studio%20code" /></a>
