@@ -91,3 +91,7 @@
 ### MacOS Spotlight Search `for Windows`
 
 <a href="https://www.flowlauncher.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Flow%20Launcher-000?style=for-the-badge&logo=flow%20launcher" /></a>
+
+### PC Manager `for Windows`
+
+<a href="https://pcmanager-en.microsoft.com/en-us" target="_blank"><img alt="" src="https://img.shields.io/badge/-Microsoft%20PC%20Manager-000?style=for-the-badge&logo=microsoft%20pc%20manager" /></a>
