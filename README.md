@@ -72,6 +72,8 @@
 ### Package Manager
 `NPM`
 `Yarn`
+`Pip`
+`Homebrew`
 
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
