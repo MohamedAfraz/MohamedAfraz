@@ -65,6 +65,7 @@
 
 ### Design/Visual Tools
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-000?style=for-the-badge&logo=aseprite)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
