@@ -19,15 +19,17 @@
 `Typescript`
 `PHP`
 `Python`
+`Java`
+`Rust`
 `C++`
-`C#`
 `Go`
 `Markdown`
 
 ### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Three JS](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
+![Vue JS](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte)
 
 ### CSS Framework/Library/Pre-processors
 `Tailwind CSS`
@@ -38,16 +40,15 @@
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=api)
 
 ### Platforms
-`Android`
 `iOS`
-`Windows`
 `MacOS`
+`Android`
+`Windows`
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
 
 ### Game Development
 `Unity`
@@ -55,13 +56,14 @@
 
 ### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Hostinger](https://img.shields.io/badge/-Hostinger-000?style=for-the-badge&logo=hostinger)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 ### Database/State
 `Firebase`
 `MongoDB`
+`SQL`
 
 ### Design/Visual Tools
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
@@ -85,24 +87,24 @@
 ## Softwares and Apps *used by me* (click on it to install)
 ### Web Browser
 
-<a href="https://brave.com/download/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Brave-000?style=for-the-badge&logo=brave" /></a>
+<a href="https://arc.net/gift/d43f7b46" target="_blank"><img alt="" src="https://img.shields.io/badge/-Arc-000?style=for-the-badge&logo=arc" /></a>
 
 ### Code Editor
 
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual%20studio%20code" /></a>
-
-### Android Development
-
-<a href="https://developer.android.com/studio" target="_blank"><img alt="" src="https://img.shields.io/badge/-Android%20Studio-000?style=for-the-badge&logo=android%20studio" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=vs%20code" /></a>
 
 ### iOS Development
 
 <a href="https://developer.apple.com/xcode/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Xcode-000?style=for-the-badge&logo=xcode" /></a>
 
-### MacOS Spotlight Search `for Windows`
+### Android Development
 
-<a href="https://www.flowlauncher.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Flow%20Launcher-000?style=for-the-badge&logo=flow%20launcher" /></a>
+<a href="https://developer.android.com/studio" target="_blank"><img alt="" src="https://img.shields.io/badge/-Android%20Studio-000?style=for-the-badge&logo=android%20studio" /></a>
 
-### PC Manager `for Windows`
+### Screen Recorder
 
-<a href="https://pcmanager-en.microsoft.com/en-us" target="_blank"><img alt="" src="https://img.shields.io/badge/-Microsoft%20PC%20Manager-000?style=for-the-badge&logo=microsoft%20pc%20manager" /></a>
+<a href="https://www.screen.studio/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Screen%20Studio-000?style=for-the-badge&logo=screen%20studio" /></a>
+
+### Video Editing Software
+
+<a href="https://www.apple.com/final-cut-pro/" target="_blank"><img alt="" src="https://img.shields.io/badge/-Final%20Cut%20Pro-000?style=for-the-badge&logo=final%20cut%20pro" /></a>
