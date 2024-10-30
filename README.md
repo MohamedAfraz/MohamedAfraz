@@ -7,7 +7,7 @@
   
 - 📫 You can reach me at: **mohamedafraz19@gmail.com**
 
-- Subscribe to my [**YouTube Channel**](https://www.youtube.com/channel/UCaecJrLhwYwe-QykJQz4mDg?sub_confirmation=1)
+- Subscribe to my [**YouTube Channel**](ttps://www.youtube.com/channel/UCaecJrLhwYwe-QykJQz4mDg?sub_confirmation=1)
 
 <br>
 
