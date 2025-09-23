@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Mohamed Afraz</h1>
-<h3 align="center">I'm a Full-stack Developer ✅</h3>
+<h3 align="center">I'm a Software Engineer ✅</h3>
 <img align="right" alt="Coding" width="190" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAfraz&color=4169e1&style=for-the-badge&label=Profile+Views" alt="Mohamed Afraz"/> </p>
 
